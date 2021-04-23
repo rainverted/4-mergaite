@@ -5,7 +5,7 @@
 ![HTML-CODE](https://img.shields.io/badge/HTML-CODE-blue)
 ![JAVASCRIPT-CODE](https://img.shields.io/badge/JAVASCRIPT-CODE-blueviolet)
 
-# Neuron Portfolio
+# Mergaite
 
 This project is for eductaional purposes only. 
 

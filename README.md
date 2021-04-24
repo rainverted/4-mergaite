@@ -11,7 +11,7 @@ This project is for eductaional purposes only.
 
 ## Links
 
-Site published at https://front-end-by-rimantas.github.io/25-grupe-portfolio-neuron/
+Site published at https://rainverted.github.io/4-mergaite/
 
 Design: [Mergaite](https://rainverted.github.io/4-mergaite/)
 

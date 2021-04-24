@@ -6,6 +6,7 @@
 ![JAVASCRIPT-CODE](https://img.shields.io/badge/JAVASCRIPT-CODE-blueviolet)
 
 # Mergaite
+28th group project 
 
 This project is for eductaional purposes only. 
 
